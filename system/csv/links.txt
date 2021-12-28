@@ -1,0 +1,2 @@
+https://test.tgp.crs/Handlers/DownloadFile.ashx?requestingPage=Catalog&filePath=/Content/Catalog/Temp/TGPCatalog%20-%2005-25-2021%2006-06-54AM.xlsx
+https://test.tgp.crs/Handlers/DownloadFile.ashx?requestingPage=Catalog&filePath=/Content/Catalog/Temp/TGPCatalog%20-%2005-25-2021%2006-08-27AM.xlsx
